@@ -5,6 +5,8 @@
 //  Created by Partha Sarkar on 24/07/18.
 //  Copyright © 2018 Partha Sarkar. All rights reserved.
 //
+
+
 //http://api.nytimes.com/svc/mostpopular/v2/mostviewed/all-sections/7.json?api- key=99ac37d97d2b4478aa5ac46830c548e4
 
 import Foundation
